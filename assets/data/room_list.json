@@ -1,0 +1,46 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "roomImage": "assets/room_1.jpg",
+            "roomType": "Single Room",
+            "roomPrice": "Rs:1000"
+        },
+        {
+            "id": 2,
+            "roomImage": "assets/room_2.jpg",
+            "roomType": "Double Room",
+            "roomPrice": "Rs:1500"
+        },
+        {
+            "id": 3,
+            "roomImage": "assets/room_3.jpg",
+            "roomType": "Deluxe Room",
+            "roomPrice": "Rs:2000"
+        },
+        {
+            "id": 4,
+            "roomImage": "assets/room_4.jpg",
+            "roomType": "Suite Room",
+            "roomPrice": "Rs:2500"
+        },
+        {
+            "id": 5,
+            "roomImage": "assets/room_5.jpg",
+            "roomType": "Standard Room",
+            "roomPrice": "Rs:1200"
+        },
+        {
+            "id": 6,
+            "roomImage": "assets/room_6.jpg",
+            "roomType": "Family Room",
+            "roomPrice": "Rs:1800"
+        },
+        {
+            "id": 7,
+            "roomImage": "assets/room_7.jpg",
+            "roomType": "Presidential Suite",
+            "roomPrice": "Rs:5000"
+        }
+    ]
+}

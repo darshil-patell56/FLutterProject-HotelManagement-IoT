@@ -1,0 +1,60 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "type": "Single Room",
+            "capacity": 1,
+            "location": "Floor 5, East Wing",
+            "image": "assets/room_1.jpg",
+            "pricePerNight": 1000
+        },
+        {
+            "id": 2,
+            "type": "Double Room",
+            "capacity": 2,
+            "location": "Floor 3, West Wing",
+            "image": "assets/room_2.jpg",
+            "pricePerNight": 1500
+        },
+        {
+            "id": 3,
+            "type": "Deluxe Room",
+            "capacity": 4,
+            "location": "Floor 3, West Wing",
+            "image": "assets/room_3.jpg",
+            "pricePerNight": 2000
+        },
+        {
+            "id": 4,
+            "type": "Suite Room",
+            "capacity": 8,
+            "location": "Floor 4, North Wing",
+            "image": "assets/room_4.jpg",
+            "pricePerNight": 2500
+        },
+        {
+            "id": 5,
+            "type": "Standard Room",
+            "capacity": 3,
+            "location": "Floor 2, South Wing",
+            "image": "assets/room_5.jpg",
+            "pricePerNight": 1200
+        },
+        {
+            "id": 6,
+            "type": "Family Room",
+            "capacity": 6,
+            "location": "Floor 1, East Wing",
+            "image": "assets/room_6.jpg",
+            "pricePerNight": 1800
+        },
+        {
+            "id": 7,
+            "type": "Presidential Room",
+            "capacity": 8,
+            "location": "Floor 6, West Wing",
+            "image": "assets/room_7.jpg",
+            "pricePerNight": 5000
+        }
+    ]
+}
